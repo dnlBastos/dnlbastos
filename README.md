@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Praticando linguagem C, Banco de Dados SQL e Modelagem de Banco de Dados.
-- ✉ danilo02bastos@hotmail.com
 
 <div align="center">
   <a href="https://github.com/dnlBastos">
