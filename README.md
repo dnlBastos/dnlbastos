@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Praticando linguagem C, Banco de Dados SQL e Modelagem de Banco de Dados.
-
 <div align="center">
   <a href="https://github.com/dnlBastos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnlBastos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
