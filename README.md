@@ -1,7 +1,7 @@
 ## Olá! Eu Sou Danilo Bastos 👋
 
 - 🔭 Atualmente Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando/ Praticando linguagem C, Banco de Dados SQL e Modelagem de Banco de Dados.
+- 🌱 Estudando/ Praticando linguagem C, Banco de Dados SQL, Consultas SQL e Modelagem de Banco de Dados.
 
 <div align="center">
   <a href="https://github.com/dnlBastos">
